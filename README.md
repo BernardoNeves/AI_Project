@@ -37,6 +37,8 @@ pygame -u survive.py
 	- "W": Move camera up 
 	- "S": Move camera  down
 	- "D": Move camera right
+    - "MouseLeft": Place Player 
+    - "MouseRight": Place Goal for pathfinding visualization
 
 ---
 ## Description
